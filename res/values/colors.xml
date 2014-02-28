@@ -44,7 +44,7 @@
     <color name="background_dialer_list_items">#eeeeee</color>
 
     <!-- Background color where keypad digits are displayed -->
-    <color name="background_digits_dialpad">#f2ffffff</color>
+    <color name="background_digits_dialpad">#faeeeeee</color>
 
     <!-- Background color of new dialpad -->
     <color name="background_dialpad">#faeeeeee</color>
