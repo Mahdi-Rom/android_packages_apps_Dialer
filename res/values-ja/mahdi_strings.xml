@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2014 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_stats_title">統計情報</string>
+    <string name="callStatsDetailTitle">通話統計</string>
+
+    <string name="call_stats">通話統計</string>
+    <string name="call_stats_refresh">リフレッシュ</string>
+    <string name="activity_title_call_stats">通話統計</string>
+
+    <string name="call_stats_nav_all">全て</string>
+    <string name="call_stats_nav_incoming">着信</string>
+    <string name="call_stats_nav_outgoing">発信</string>
+    <string name="call_stats_nav_missed">不在着信</string>
+    <string name="call_stats_incoming">着信: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_outgoing">発信: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_missed">不在着信</string>
+    <string name="call_stats_missed_percent">不在着信: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_header_total">合計: <xliff:g id="call_count">%s</xliff:g>, <xliff:g id="duration">%s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">合計: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">開始日</string>
+    <string name="call_stats_filter_to">終了日</string>
+    <string name="call_stats_filter_picker_title">フィルタの範囲</string>
+
+    <string name="date_quick_selection">クイック選択</string>
+    <string name="date_qs_currentmonth">今月</string>
+    <string name="date_qs_currentquarter">今四半期</string>
+    <string name="date_qs_currentyear">今年</string>
+    <string name="date_qs_lastweek">先週</string>
+    <string name="date_qs_lastmonth">先月</string>
+    <string name="date_qs_lastquarter">前四半期</string>
+    <string name="date_qs_lastyear">去年</string>
+
+    <string name="call_stats_date_filter">フィルタ範囲の設定</string>
+    <string name="call_stats_reset_filter">フィルタ範囲のリセット</string>
+    <string name="call_stats_sort_by_duration">通話時間で並べ替え</string>
+    <string name="call_stats_sort_by_count">通話回数で並べ替え</string>
+
+    <string name="menu_add_to_blacklist">ブラックリストに追加</string>
+    <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g>をブラックリストに追加しました</string>
+
+    <!-- Forward lookup -->
+    <string name="nearby_places">近くの場所</string>
+    <string name="people">人物</string>
+
+</resources>
